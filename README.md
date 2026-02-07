@@ -5,7 +5,8 @@
 
 ## Executive Summary
 
-**FLUX-GEO** is a comprehensive, Python-driven computational framework for subsurface flow, transport, and coupled process modeling across energy, environmental, and storage applications. The platform integrates multiple, well-established numerical simulators—including **:contentReference[oaicite:0]{index=0}**, **:contentReference[oaicite:1]{index=1}**, **:contentReference[oaicite:2]{index=2}**, **:contentReference[oaicite:3]{index=3}**, and **:contentReference[oaicite:4]{index=4}**—within a unified, transparent, and reproducible workflow.
+**FLUX-GEO** is a comprehensive, Python-driven computational framework for subsurface flow, transport, and coupled process modeling across energy, environmental, and storage applications. The platform integrates multiple, well-established numerical simulators—including **PFLOTRAN**, **FEHM**, **MODFLOW**, **VS2DI**, and **VS2DTI**—within a unified, transparent, and reproducible workflow.
+
 
 FLUX-GEO is designed to support the **full modeling lifecycle**, from conceptual model development and scenario design to simulation execution, postprocessing, parameter estimation, uncertainty analysis, and decision-ready reporting. By combining solver-appropriate physics with a consistent Python orchestration layer, the framework preserves the numerical strengths of each engine while eliminating fragmentation in setup, analysis, QA/QC, and documentation.
 
