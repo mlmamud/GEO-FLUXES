@@ -3,11 +3,12 @@
 
 ---
 
-## Summary
+## Executive Summary
 
-**FLUX-GEO** is a computational modeling framework for subsurface CO₂ storage and carbon management, built around **PFLOTRAN-based multiphase flow and transport workflows**, with additional support for complementary subsurface simulators accessed through Python-driven interfaces. The platform delivers reproducible simulation packages, operational scenarios with explicit constraints, and decision-ready outputs that directly support engineering decisions, project planning, and technical review.
+**FLUX-GEO** is a computational modeling framework for subsurface CO₂ storage and carbon management that integrates **PFLOTRAN-based multiphase flow and transport workflows** with complementary subsurface simulators accessed through **Python-driven interfaces**. The framework enables consistent setup, execution, and analysis of subsurface flow and transport scenarios while preserving solver-specific strengths.
 
-FLUX-GEO emphasizes **physical realism, traceability, and reproducibility**, enabling transparent evaluation of injectivity, pressure evolution, plume behavior, trapping mechanisms, and long-term storage performance across a range of subsurface energy and storage applications.
+FLUX-GEO delivers **reproducible and traceable simulation packages**, operational scenarios with explicit physical and engineering constraints, and **decision-ready outputs** that directly support storage design, performance assessment, and technical review. By emphasizing physical realism, transparent assumptions, and rigorous QA/QC, FLUX-GEO enables robust evaluation of **injectivity, pressure evolution, plume migration, trapping mechanisms, and long-term storage performance** across a range of subsurface energy and storage applications.
+
 
 ---
 
