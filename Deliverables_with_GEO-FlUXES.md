@@ -1,11 +1,11 @@
-# Deliverables with GeoFluxes  
+# Deliverables with GEO-FLUXES  
 ## A Reproducible Modeling Framework for Subsurface Flow, Transport, and Reactive Processes
 
 ---
 
 ## Overview
 
-GeoFluxes deliverables are structured to scale with **data availability, project maturity, and decision needs**. Each deliverable set produces **fully traceable, reproducible modeling artifacts** designed to support technical review, risk assessment, and stakeholder communication.
+GEO-FLUXES deliverables are structured to scale with **data availability, project maturity, and decision needs**. Each deliverable set produces **fully traceable, reproducible modeling artifacts** designed to support technical review, risk assessment, and stakeholder communication.
 
 All deliverables are generated through **deterministic, version-controlled workflows** integrating physics-based simulators (e.g., PFLOTRAN, FEHM, MODFLOW, VS2DI, VS2DTI) with automated preprocessing, postprocessing, QA/QC, and reporting layers. Every figure, table, and conclusion is explicitly traceable to its underlying assumptions, inputs, and solver configurations.
 
@@ -13,7 +13,7 @@ All deliverables are generated through **deterministic, version-controlled workf
 
 ## Core Deliverable Principles
 
-All GeoFluxes deliverables include:
+All GEO-FLUXES deliverables include:
 
 - Explicitly documented modeling assumptions and limitations  
 - Solver configurations and numerical controls preserved for reruns  
@@ -119,7 +119,7 @@ This ensures results are **defensible, auditable, and review-ready**.
 
 ## Organization and Traceability
 
-All GeoFluxes deliverables follow a consistent, reproducible directory structure, typically including:
+All GEO-FLUXES deliverables follow a consistent, reproducible directory structure, typically including:
 
 - `/inputs/` — conceptual models, parameter files, and assumptions  
 - `/models/` — solver-specific input decks  
@@ -134,7 +134,7 @@ This structure preserves a transparent artifact chain from raw assumptions to fi
 
 ## Intended Use
 
-GeoFluxes deliverables are intended to support:
+GEO-FLUXES deliverables are intended to support:
 
 - Interpretation and comparison of subsurface scenarios  
 - Engineering and risk-informed decision-making  
@@ -146,7 +146,7 @@ They are **not intended as standalone predictive forecasts**, but as **defensibl
 
 ## Why This Is Valuable
 
-GeoFluxes transforms complex subsurface problems into **transparent, testable, and repeatable modeling workflows**. By integrating multiple physics-based simulators within a single, coherent framework, GeoFluxes:
+GEO-FLUXES transforms complex subsurface problems into **transparent, testable, and repeatable modeling workflows**. By integrating multiple physics-based simulators within a single, coherent framework, GEO-FLUXES:
 
 - Reduces technical and decision risk  
 - Improves consistency across modeling approaches and spatial scales  

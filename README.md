@@ -1,13 +1,13 @@
-# GeoFluxes  
+# GEO-FLUXES  
 **Multiphase Flow and Transport Modeling for Subsurface Energy and Storage Systems**
 
 ---
 
 ## Executive Summary
 
-**GeoFluxes** is a comprehensive, Python-driven computational framework for subsurface flow, transport, and coupled process modeling across energy, environmental, and storage applications. The platform integrates multiple, well-established numerical simulators—including **PFLOTRAN**, **FEHM**, **MODFLOW**, **VS2DI**, and **VS2DTI**—within a unified, transparent, and reproducible workflow.
+**GEO-FLUXES** is a comprehensive, Python-driven computational framework for subsurface flow, transport, and coupled process modeling across energy, environmental, and storage applications. The platform integrates multiple, well-established numerical simulators—including **PFLOTRAN**, **FEHM**, **MODFLOW**, **VS2DI**, and **VS2DTI**—within a unified, transparent, and reproducible workflow.
 
-GeoFluxes is designed to support the **full modeling lifecycle**, from conceptual model development and scenario design to simulation execution, postprocessing, parameter estimation, uncertainty analysis, and decision-ready reporting. By combining solver-appropriate physics with a consistent Python orchestration layer, the framework preserves the numerical strengths of each engine while eliminating fragmentation in setup, analysis, QA/QC, and documentation.
+GEO-FLUXES is designed to support the **full modeling lifecycle**, from conceptual model development and scenario design to simulation execution, postprocessing, parameter estimation, uncertainty analysis, and decision-ready reporting. By combining solver-appropriate physics with a consistent Python orchestration layer, the framework preserves the numerical strengths of each engine while eliminating fragmentation in setup, analysis, QA/QC, and documentation.
 
 The platform delivers **traceable simulation packages**, operational scenarios with explicit physical and engineering constraints, and **decision-ready outputs** suitable for technical review, regulatory-style documentation, and stakeholder communication. Emphasis is placed on physical realism, transparent assumptions, reproducibility, and defensible uncertainty framing, enabling robust evaluation of **groundwater flow**, **multiphase and gas–liquid systems**, **reactive transport**, **near-field and variably saturated processes**, **microfluidic and pore-scale behavior**, and **long-term system performance** across a wide range of subsurface applications.
 
@@ -15,13 +15,13 @@ The platform delivers **traceable simulation packages**, operational scenarios w
 
 ## Capabilities
 
-GeoFluxes provides an integrated, multi-scale modeling capability spanning laboratory, field, and regional domains. Each capability leverages the most appropriate numerical engines while maintaining a consistent workflow for scenario definition, execution control, postprocessing, parameter estimation, QA/QC, and reporting.
+GEO-FLUXES provides an integrated, multi-scale modeling capability spanning laboratory, field, and regional domains. Each capability leverages the most appropriate numerical engines while maintaining a consistent workflow for scenario definition, execution control, postprocessing, parameter estimation, QA/QC, and reporting.
 
 ---
 
 ## Groundwater Flow and Solute Transport
 
-GeoFluxes supports saturated groundwater flow and solute transport modeling for environmental, energy, and infrastructure applications.
+GEO-FLUXES supports saturated groundwater flow and solute transport modeling for environmental, energy, and infrastructure applications.
 
 ### What We Can Do
 - Regional- and site-scale groundwater flow modeling  
@@ -40,7 +40,7 @@ GeoFluxes supports saturated groundwater flow and solute transport modeling for 
 
 ## Multiphase Flow (CO₂, H₂, Gas–Water Systems)
 
-GeoFluxes supports multiphase flow and gas–liquid interaction modeling across reservoir-scale, near-field, and transition-zone regimes.
+GEO-FLUXES supports multiphase flow and gas–liquid interaction modeling across reservoir-scale, near-field, and transition-zone regimes.
 
 ### What We Can Do
 - Gas injection scenarios with pressure buildup and plume migration  
@@ -60,7 +60,7 @@ GeoFluxes supports multiphase flow and gas–liquid interaction modeling across 
 
 ## Wells, Operations, and Engineering Constraints
 
-GeoFluxes represents coupled wells and operational controls under realistic engineering and regulatory constraints.
+GEO-FLUXES represents coupled wells and operational controls under realistic engineering and regulatory constraints.
 
 ### What We Can Do
 - Injection and production scheduling (CO₂, H₂, brine, water)  
@@ -80,7 +80,7 @@ GeoFluxes represents coupled wells and operational controls under realistic engi
 
 ## Reactive Transport and Geochemical Processes
 
-GeoFluxes incorporates reactive transport where geochemistry governs system evolution and long-term behavior.
+GEO-FLUXES incorporates reactive transport where geochemistry governs system evolution and long-term behavior.
 
 ### What We Can Do
 - Coupled flow, transport, and geochemical reaction modeling  
@@ -99,7 +99,7 @@ GeoFluxes incorporates reactive transport where geochemistry governs system evol
 
 ## Variably Saturated Flow and Near-Field Processes
 
-GeoFluxes supports vadose-zone and near-surface modeling where capillary effects and partial saturation dominate.
+GEO-FLUXES supports vadose-zone and near-surface modeling where capillary effects and partial saturation dominate.
 
 ### What We Can Do
 - Variably saturated flow and transport simulations  
@@ -114,7 +114,7 @@ GeoFluxes supports vadose-zone and near-surface modeling where capillary effects
 
 ## Microfluidic and Pore-Scale Simulations
 
-GeoFluxes supports microfluidic, pore-scale, and laboratory-scale simulations for process understanding, benchmarking, and scale-bridging.
+GEO-FLUXES supports microfluidic, pore-scale, and laboratory-scale simulations for process understanding, benchmarking, and scale-bridging.
 
 ### What We Can Do
 - Flow and transport in microfluidic and lab-on-chip geometries  
@@ -132,7 +132,7 @@ GeoFluxes supports microfluidic, pore-scale, and laboratory-scale simulations fo
 
 ## Parameter Estimation, Inverse Modeling, and Uncertainty Analysis
 
-GeoFluxes provides parameter estimation and inverse modeling capabilities across all supported simulators.
+GEO-FLUXES provides parameter estimation and inverse modeling capabilities across all supported simulators.
 
 ### What We Can Do
 - Calibration of hydraulic, transport, thermal, and reactive parameters  
@@ -154,7 +154,7 @@ GeoFluxes provides parameter estimation and inverse modeling capabilities across
 
 ## Postprocessing, KPIs, and Reporting
 
-GeoFluxes converts raw simulator outputs into consistent, decision-ready products.
+GEO-FLUXES converts raw simulator outputs into consistent, decision-ready products.
 
 ### What We Can Do
 - Automated plots for pressure, flow, plume extent, and transport metrics  
@@ -166,7 +166,7 @@ GeoFluxes converts raw simulator outputs into consistent, decision-ready product
 
 ## Reproducibility, QA/QC, and Audit Readiness
 
-GeoFluxes is designed to produce defensible, auditable results.
+GEO-FLUXES is designed to produce defensible, auditable results.
 
 ### What We Can Do
 - Fully reproducible run packages with complete provenance  
@@ -178,7 +178,7 @@ GeoFluxes is designed to produce defensible, auditable results.
 
 ## Why This Matters for Clients
 
-GeoFluxes reduces technical risk by transforming complex subsurface problems into **transparent, testable, and repeatable modeling workflows**. By supporting groundwater flow, multiphase systems, reactive transport, parameter estimation, and pore-scale processes within a single coherent platform, GeoFluxes enables faster insight, clearer uncertainty communication, and stronger technical justification for decisions related to energy systems, environmental management, and subsurface storage.
+GEO-FLUXES reduces technical risk by transforming complex subsurface problems into **transparent, testable, and repeatable modeling workflows**. By supporting groundwater flow, multiphase systems, reactive transport, parameter estimation, and pore-scale processes within a single coherent platform, GEO-FLUXES enables faster insight, clearer uncertainty communication, and stronger technical justification for decisions related to energy systems, environmental management, and subsurface storage.
 
 ---
 
@@ -186,12 +186,12 @@ GeoFluxes reduces technical risk by transforming complex subsurface problems int
 
 © 2026 Md Lal Mamud. All rights reserved.
 
-GeoFluxes is proprietary research software. Use, reproduction, modification, or distribution of this software requires explicit prior written permission from the author. See the `LICENSE` file for full terms.
+GEO-FLUXES is proprietary research software. Use, reproduction, modification, or distribution of this software requires explicit prior written permission from the author. See the `LICENSE` file for full terms.
 
 ---
 
 ## Citation
 
-If you use **GeoFluxes** in research, proposals, or technical studies, please cite appropriately. Citation details for GeoFluxes will be provided in a future release.
+If you use **GEO-FLUXES** in research, proposals, or technical studies, please cite appropriately. Citation details for GEO-FLUXES will be provided in a future release.
 
 Users are responsible for citing the underlying numerical engines (**PFLOTRAN**, **FEHM**, **MODFLOW**, **VS2DI**, **VS2DTI**) according to their respective citation guidelines and licensing requirements.

@@ -1,11 +1,11 @@
-# Cost Considerations with GeoFluxes  
+# Cost Considerations with GEO-FLUXES  
 ## A Reproducible Framework for Subsurface Flow, Transport, and Reactive Modeling
 
 ---
 
 ## Overview
 
-GeoFluxes projects combine **physics-based subsurface simulation**, **custom scientific workflow development**, **reproducible computational execution**, **automated postprocessing**, and **audit-ready technical reporting**. Cost structures reflect not only model development, but also the **scientific expertise, risk management, and review readiness** required for high-stakes subsurface decision-making.
+GEO-FLUXES projects combine **physics-based subsurface simulation**, **custom scientific workflow development**, **reproducible computational execution**, **automated postprocessing**, and **audit-ready technical reporting**. Cost structures reflect not only model development, but also the **scientific expertise, risk management, and review readiness** required for high-stakes subsurface decision-making.
 
 In the U.S. consulting and research-services market, pricing for work of this nature is driven primarily by:
 
@@ -20,7 +20,7 @@ Pricing is therefore based on **effort, expertise, and risk mitigation**, rather
 
 ## Typical Independent Consultant Rate Bands (USD)
 
-Indicative hourly rate ranges for comparable GeoFluxes-style work include:
+Indicative hourly rate ranges for comparable GEO-FLUXES–style work include:
 
 - **Generalist scientific modelers / early-career developers:**  
   **$75–$125 per hour**
@@ -38,7 +38,7 @@ Actual rates depend on project urgency, regulatory exposure, and review burden.
 
 ## Common Fixed-Bid Cost Ranges
 
-For projects similar in scope to GeoFluxes deliverables, fixed-bid engagements commonly fall within the following ranges:
+For projects similar in scope to GEO-FLUXES deliverables, fixed-bid engagements commonly fall within the following ranges:
 
 ### Rapid Screening and Feasibility Studies
 **$15k–$40k**
@@ -82,7 +82,7 @@ For projects similar in scope to GeoFluxes deliverables, fixed-bid engagements c
 
 ## Practical Pricing Approach
 
-A defensible and transparent pricing strategy for GeoFluxes projects typically includes:
+A defensible and transparent pricing strategy for GEO-FLUXES projects typically includes:
 
 1. **Effort estimation**
    - Commonly **150–400 hours** depending on scope, physics, and review cycles  
@@ -104,7 +104,7 @@ A defensible and transparent pricing strategy for GeoFluxes projects typically i
 
 ## Cost Drivers and Scaling Factors
 
-Key drivers influencing GeoFluxes project cost include:
+Key drivers influencing GEO-FLUXES project cost include:
 
 - Number of modeled scenarios and operational strategies  
 - Dimensionality (2D vs 3D) and grid resolution  
@@ -119,20 +119,20 @@ Transparent cost scaling ensures sponsors understand how added rigor translates 
 
 ## Value Proposition
 
-GeoFluxes pricing reflects more than simulation execution. It includes:
+GEO-FLUXES pricing reflects more than simulation execution. It includes:
 
 - **Deep domain expertise** across multiple subsurface simulators  
 - **Risk reduction** through reproducible, traceable, and auditable workflows  
 - **Decision-ready outputs** suitable for engineering, risk, and regulatory contexts  
 - **Consistency across scales and modeling approaches**  
 
-GeoFluxes delivers **defensible science**, not just model outputs.
+GEO-FLUXES delivers **defensible science**, not just model outputs.
 
 ---
 
 ## Competitive Positioning
 
-Compared to ad hoc modeling or solver-specific consulting, GeoFluxes offers:
+Compared to ad hoc modeling or solver-specific consulting, GEO-FLUXES offers:
 
 - Integrated multi-physics workflows  
 - Consistent QA/QC across tools and scenarios  
@@ -145,6 +145,6 @@ This reduces downstream decision risk and long-term project cost.
 
 ## Summary
 
-GeoFluxes enables sponsors to invest in **transparent, reproducible, and scientifically defensible subsurface modeling**. Funding scales naturally with project ambition, physics complexity, and uncertainty-management needs—allowing organizations to balance **cost, rigor, and decision confidence**.
+GEO-FLUXES enables sponsors to invest in **transparent, reproducible, and scientifically defensible subsurface modeling**. Funding scales naturally with project ambition, physics complexity, and uncertainty-management needs—allowing organizations to balance **cost, rigor, and decision confidence**.
 
 ---

@@ -1,4 +1,4 @@
-# GeoFluxes Proprietary License
+# GEO-FLUXES Proprietary License
 
 Copyright (c) 2026  
 Md Lal Mamud  
@@ -8,7 +8,7 @@ All rights reserved.
 
 ## 1. Ownership
 
-**GeoFluxes** is a proprietary computational workflow and integration framework
+**GEO-FLUXES** is a proprietary computational workflow and integration framework
 authored and maintained by Md Lal Mamud. All intellectual property rights,
 including but not limited to source code, scripts, workflows, documentation,
 automation logic, postprocessing routines, figures, reports, and derived
@@ -20,7 +20,7 @@ No ownership rights are transferred under this license.
 
 ## 2. Grant of Permission
 
-Permission is hereby granted to view, evaluate, and use **GeoFluxes** for
+Permission is hereby granted to view, evaluate, and use **GEO-FLUXES** for
 non-commercial research, internal evaluation, or proposal development
 purposes only, subject to the restrictions below.
 
@@ -34,20 +34,20 @@ permission from the author.
 
 Unless explicitly authorized in writing by the author, you may not:
 
-- Redistribute GeoFluxes, in whole or in part  
+- Redistribute GEO-FLUXES, in whole or in part  
 - Modify and distribute derivative works  
-- Sell, sublicense, lease, or commercially exploit GeoFluxes  
-- Represent GeoFluxes as an open-source or public-domain project  
+- Sell, sublicense, lease, or commercially exploit GEO-FLUXES  
+- Represent GEO-FLUXES as an open-source or public-domain project  
 - Remove or alter copyright, attribution, or license notices  
 
 ---
 
 ## 4. Third-Party Software Disclaimer
 
-GeoFluxes does not include, redistribute, modify, or sublicense any third-party
+GEO-FLUXES does not include, redistribute, modify, or sublicense any third-party
 numerical simulators.
 
-GeoFluxes may interface with external software independently developed and
+GEO-FLUXES may interface with external software independently developed and
 licensed by third parties, including but not limited to:
 
 - **PFLOTRAN** (U.S. Department of Energy / Los Alamos National Laboratory)  
@@ -57,10 +57,10 @@ licensed by third parties, including but not limited to:
 
 These software packages are governed by their own licenses and terms. Users
 are solely responsible for obtaining, installing, and complying with the
-licenses of any third-party software used in conjunction with GeoFluxes.
+licenses of any third-party software used in conjunction with GEO-FLUXES.
 
-Use of GeoFluxes does not grant any rights to these third-party tools.
-GeoFluxes is not a derivative work of, nor affiliated with, endorsed by, or
+Use of GEO-FLUXES does not grant any rights to these third-party tools.
+GEO-FLUXES is not a derivative work of, nor affiliated with, endorsed by, or
 sponsored by any institution associated with these third-party software
 packages.
 
@@ -68,6 +68,44 @@ packages.
 
 ## 5. No Warranty
 
-GeoFluxes is provided **"AS IS"**, without warranty of any kind, express or
+GEO-FLUXES is provided **"AS IS"**, without warranty of any kind, express or
 implied, including but not limited to warranties of merchantability, fitness
-for a particular purpose, scient
+for a particular purpose, scientific accuracy, or regulatory compliance.
+
+---
+
+## 6. Limitation of Liability
+
+In no event shall the author be liable for any claim, damages, losses, or other
+liability arising from the use, misuse, or interpretation of GEO-FLUXES or any
+results produced using third-party simulators in conjunction with GEO-FLUXES.
+
+All scientific, engineering, regulatory, and operational decisions based on
+results generated using GEO-FLUXES are the sole responsibility of the user.
+
+---
+
+## 7. Citation and Attribution
+
+Use of GEO-FLUXES in publications, proposals, reports, or presentations must
+include appropriate attribution to the author.
+
+Users are additionally responsible for citing any third-party numerical
+engines according to their respective citation guidelines.
+
+---
+
+## 8. Governing Law
+
+This license shall be governed and construed in accordance with the laws of
+the United States, without regard to conflict of law principles.
+
+---
+
+## 9. Contact
+
+For permissions beyond the scope of this license, including commercial use,
+collaboration, or redistribution, please contact:
+
+**Md Lal Mamud**  
+Email: **geomahmud44@gmail.com**
